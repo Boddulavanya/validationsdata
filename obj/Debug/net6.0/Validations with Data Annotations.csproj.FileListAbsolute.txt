@@ -1,0 +1,30 @@
+D:\simplilearn\phase2\Assisted projects\Validations with Data Annotations\Validations with Data Annotations\bin\Debug\net6.0\appsettings.Development.json
+D:\simplilearn\phase2\Assisted projects\Validations with Data Annotations\Validations with Data Annotations\bin\Debug\net6.0\appsettings.json
+D:\simplilearn\phase2\Assisted projects\Validations with Data Annotations\Validations with Data Annotations\bin\Debug\net6.0\Validations with Data Annotations.staticwebassets.runtime.json
+D:\simplilearn\phase2\Assisted projects\Validations with Data Annotations\Validations with Data Annotations\bin\Debug\net6.0\Validations with Data Annotations.exe
+D:\simplilearn\phase2\Assisted projects\Validations with Data Annotations\Validations with Data Annotations\bin\Debug\net6.0\Validations with Data Annotations.deps.json
+D:\simplilearn\phase2\Assisted projects\Validations with Data Annotations\Validations with Data Annotations\bin\Debug\net6.0\Validations with Data Annotations.runtimeconfig.json
+D:\simplilearn\phase2\Assisted projects\Validations with Data Annotations\Validations with Data Annotations\bin\Debug\net6.0\Validations with Data Annotations.dll
+D:\simplilearn\phase2\Assisted projects\Validations with Data Annotations\Validations with Data Annotations\bin\Debug\net6.0\Validations with Data Annotations.pdb
+D:\simplilearn\phase2\Assisted projects\Validations with Data Annotations\Validations with Data Annotations\obj\Debug\net6.0\Validations with Data Annotations.GeneratedMSBuildEditorConfig.editorconfig
+D:\simplilearn\phase2\Assisted projects\Validations with Data Annotations\Validations with Data Annotations\obj\Debug\net6.0\Validations with Data Annotations.AssemblyInfoInputs.cache
+D:\simplilearn\phase2\Assisted projects\Validations with Data Annotations\Validations with Data Annotations\obj\Debug\net6.0\Validations with Data Annotations.AssemblyInfo.cs
+D:\simplilearn\phase2\Assisted projects\Validations with Data Annotations\Validations with Data Annotations\obj\Debug\net6.0\Validations with Data Annotations.csproj.CoreCompileInputs.cache
+D:\simplilearn\phase2\Assisted projects\Validations with Data Annotations\Validations with Data Annotations\obj\Debug\net6.0\Validations with Data Annotations.MvcApplicationPartsAssemblyInfo.cache
+D:\simplilearn\phase2\Assisted projects\Validations with Data Annotations\Validations with Data Annotations\obj\Debug\net6.0\Validations with Data Annotations.RazorAssemblyInfo.cache
+D:\simplilearn\phase2\Assisted projects\Validations with Data Annotations\Validations with Data Annotations\obj\Debug\net6.0\Validations with Data Annotations.RazorAssemblyInfo.cs
+D:\simplilearn\phase2\Assisted projects\Validations with Data Annotations\Validations with Data Annotations\obj\Debug\net6.0\staticwebassets\msbuild.Validations with Data Annotations.Microsoft.AspNetCore.StaticWebAssets.props
+D:\simplilearn\phase2\Assisted projects\Validations with Data Annotations\Validations with Data Annotations\obj\Debug\net6.0\staticwebassets\msbuild.build.Validations with Data Annotations.props
+D:\simplilearn\phase2\Assisted projects\Validations with Data Annotations\Validations with Data Annotations\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Validations with Data Annotations.props
+D:\simplilearn\phase2\Assisted projects\Validations with Data Annotations\Validations with Data Annotations\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Validations with Data Annotations.props
+D:\simplilearn\phase2\Assisted projects\Validations with Data Annotations\Validations with Data Annotations\obj\Debug\net6.0\staticwebassets.pack.json
+D:\simplilearn\phase2\Assisted projects\Validations with Data Annotations\Validations with Data Annotations\obj\Debug\net6.0\staticwebassets.build.json
+D:\simplilearn\phase2\Assisted projects\Validations with Data Annotations\Validations with Data Annotations\obj\Debug\net6.0\staticwebassets.development.json
+D:\simplilearn\phase2\Assisted projects\Validations with Data Annotations\Validations with Data Annotations\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\simplilearn\phase2\Assisted projects\Validations with Data Annotations\Validations with Data Annotations\obj\Debug\net6.0\scopedcss\bundle\Validations with Data Annotations.styles.css
+D:\simplilearn\phase2\Assisted projects\Validations with Data Annotations\Validations with Data Annotations\obj\Debug\net6.0\scopedcss\projectbundle\Validations with Data Annotations.bundle.scp.css
+D:\simplilearn\phase2\Assisted projects\Validations with Data Annotations\Validations with Data Annotations\obj\Debug\net6.0\Validations with Data Annotations.dll
+D:\simplilearn\phase2\Assisted projects\Validations with Data Annotations\Validations with Data Annotations\obj\Debug\net6.0\refint\Validations with Data Annotations.dll
+D:\simplilearn\phase2\Assisted projects\Validations with Data Annotations\Validations with Data Annotations\obj\Debug\net6.0\Validations with Data Annotations.pdb
+D:\simplilearn\phase2\Assisted projects\Validations with Data Annotations\Validations with Data Annotations\obj\Debug\net6.0\Validations with Data Annotations.genruntimeconfig.cache
+D:\simplilearn\phase2\Assisted projects\Validations with Data Annotations\Validations with Data Annotations\obj\Debug\net6.0\ref\Validations with Data Annotations.dll
